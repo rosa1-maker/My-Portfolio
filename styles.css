@@ -5,6 +5,8 @@
     position: fixed;
     width: 100%;
     top: 0;
+    display:block;
+    display:inline-block ;
     
   }
   
@@ -18,7 +20,7 @@
   }
   
   .navbar a:hover {
-    background: rgb(12, 9, 9);
+    background: rgb(52, 247, 13);
     color: black;
   }
   .navbar ul {
@@ -30,6 +32,13 @@
     background-size:cover;
   }
   .body{
-      margin-top: 100px;
+      margin-top: 500px;
+      color: #f5b9b9;
       text-align: center;
+      justify-content:center center;
+      padding: 100px;
+
+}
+span{
+    color:rgb(52, 247, 13);
 }
