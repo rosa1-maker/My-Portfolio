@@ -1,7 +1,12 @@
+*{
+    box-sizing:border-box;
+    /* background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963944__340.jpg"); */
+}
+
 .navbar {
     overflow: hidden;
     background-color: #333;
-    border-bottom: violet solid 4px;
+    border-bottom:purple solid 4px;
     position: fixed;
     width: 100%;
     top: 0;
@@ -10,16 +15,15 @@
   .navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #f5b9b9;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 1.5em;
   }
   
   .navbar a:hover {
-    background: #ddd;
+    background: rgb(82, 80, 80);
     color: black;
-  }
   .navbar ul {
     list-style-type: none;
   }
