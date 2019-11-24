@@ -42,11 +42,11 @@
 span{
     color:rgb(52, 247, 13);
 }
-image{
-  float:right;
-  decoration:border-box;
+#image{
+  align-items: center;
   height:200px;
   width:200px;
+  border-style: groove;
 }
 .two{
   background:blanchedalmond;
@@ -56,4 +56,7 @@ image{
 }
 h2,h3{
  text-align: center;
+}
+p{
+font-family:'Baskervville', serif;  
 }
