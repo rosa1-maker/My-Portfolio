@@ -66,3 +66,10 @@ font-family:'Baskervville', serif;
   text-emphasis: wrap;
   margin-top:500px;
 }
+.four{
+  background:blanchedalmond;
+  font-size:30px;
+  text-emphasis: wrap;
+  margin-top:400px;
+  justify-content:space-between;
+}
