@@ -60,3 +60,9 @@ h2,h3{
 p{
 font-family:'Baskervville', serif;  
 }
+.three{
+  background:blanchedalmond;
+  font-size:30px;
+  text-emphasis: wrap;
+  margin-top:500px;
+}
