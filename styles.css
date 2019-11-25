@@ -73,3 +73,7 @@ font-family:'Baskervville', serif;
   margin-top:400px;
   justify-content:space-between;
 }
+#img{
+  border-radius: 20px;
+  margin-left: 20px;
+}
